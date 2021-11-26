@@ -1,3 +1,8 @@
 I am choosing Python because I am already efficient in it and I believe it would be easier for me.
 
 I will also consider choosing c++ because of cool and hard and low level it is, as compared to Python
+
+
+The decision has been made!
+
+WE ARE GOING WITH Python!!!!
