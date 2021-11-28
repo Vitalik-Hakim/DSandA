@@ -26,3 +26,11 @@ def recur(n):
     else:
         return n*recur(n-1)
 print(recur(5))
+
+#Adding numbers
+
+def recure(n):
+    if n <= 0:
+        return 1
+    return n + recure(n-1)
+print(recure(5))
