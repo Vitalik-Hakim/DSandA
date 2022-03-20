@@ -1,0 +1,2 @@
+#constant time
+#constant memory
